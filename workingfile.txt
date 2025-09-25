@@ -1,2 +1,6 @@
 This is a git working file
+<<<<<<< HEAD
 This is added by branch 1
+=======
+This chanded made my branch2
+>>>>>>> branch2
